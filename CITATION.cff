@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository in research, please cite the Tensor Strategy Atlas project."
+title: "Tensor Strategy Atlas — GPU Atlas"
+type: software
+authors:
+  - family-names: Taleblou
+    given-names: Morteza
+  - family-names: Daneshmand
+    given-names: Mitra
+license: Apache-2.0
+date-released: 2026-09-09
